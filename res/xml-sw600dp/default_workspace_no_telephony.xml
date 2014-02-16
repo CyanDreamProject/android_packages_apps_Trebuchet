@@ -63,8 +63,8 @@
         launcher:x="0"
         launcher:y="4" />
     <favorite
-        launcher:packageName="com.bel.android.dspmanager"
-        launcher:className="com.bel.android.dspmanager.activity.DSPManager"
+        launcher:packageName="net.cactii.flash2"
+        launcher:className="net.cactii.flash2.MainActivity"
         launcher:screen="1"
         launcher:x="4"
         launcher:y="4" />
